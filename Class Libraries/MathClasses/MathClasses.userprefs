@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="MathClasses/MathClasses.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathClasses/Statistics.cs">
+    <Files>
+      <File FileName="MathClasses/Probability.cs" Line="1" Column="1" />
+      <File FileName="MathClasses/Statistics.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
